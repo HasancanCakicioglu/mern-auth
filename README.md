@@ -1,6 +1,6 @@
 # MERN Authentication Backend Project
 
-This project is a full-stack web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides user authentication functionality, allowing users to sign up, sign in, and access protected routes using JSON Web Tokens (JWT).
+This project is a nodejs backend built for MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides user authentication functionality, allowing users to sign up, sign in, and access protected routes using JSON Web Tokens (JWT).
 
 ## Features
 
@@ -15,7 +15,6 @@ This project is a full-stack web application built with the MERN (MongoDB, Expre
 
 - MongoDB: A NoSQL database for storing user data.
 - Express.js: A backend web application framework for Node.js.
-- React.js: A JavaScript library for building user interfaces.
 - Node.js: A JavaScript runtime environment for executing server-side code.
 - JWT (JSON Web Tokens): A compact, URL-safe means of representing claims to be transferred between two parties.
 - bcrypt.js: A library to help hash passwords securely.
@@ -25,13 +24,13 @@ This project is a full-stack web application built with the MERN (MongoDB, Expre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HasancanCakicioglu/mern-auth.git
+   git clone https://github.com/HasancanCakicioglu/mern-auth-backend.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd mern-auth
+   cd mern-auth-backend
    ```
 
 3. Install dependencies for the backend:
